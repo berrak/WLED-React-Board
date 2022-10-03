@@ -37,7 +37,7 @@ Unfortunately, the varying current level is often only roughly estimated in WLED
 
 - UM TinyPICO ESP32 microcontroller.
 - Male header pins for the microcontroller.
-- Analog microphone (option: if using WLED React firmware).
+- Analog microphone (option: if using sound reactive WLED firmware).
 
 Purchase UM TinyPico ESP32 at [Pimoroni](https://shop.pimoroni.com/products/tinypico-v2?variant=39285089534035) or [Adafruit](https://www.adafruit.com/?q=TinyPico+ESP32&sort=BestMatch). Do not use the ESP32S2 or ESP32S3 models. The MAX4466-based microphone works well with the board, but other analog microphones may also be suitable for sound-reactive WLED firmware.
 
