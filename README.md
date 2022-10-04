@@ -9,7 +9,7 @@
 
 ## WLED Neopixel projects 
 
-Neopixel pixel projects have found their way into many homes. The `WLED React Board` aims to simplify the experience of the [Sound Reactive WLED](https://github.com/atuline/WLED/) and make a neat, safe installation. 
+Neopixel pixel projects have found their way into many homes. The `WLED Twin Board` aims to simplify the experience of the standard edition of [WLED](https://kno.wled.ge/) or the [Sound Reactive WLED version](https://github.com/atuline/WLED/) and make a neat, safe installation.
  
 - Works with the WLED App to manage an installation.
 - Configure pin 4 for digital LED strip data.
